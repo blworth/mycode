@@ -23,4 +23,3 @@ while True:
     else:
         print("\nThanks for learning to handle errors!")
         break
-5

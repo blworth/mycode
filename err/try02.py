@@ -15,4 +15,4 @@ while True:
     except Exception as err:
         # sys.exc_info returns a 3 tuple with into about the exception handled
         print("We did not anticipate that:", err)
-5
+
